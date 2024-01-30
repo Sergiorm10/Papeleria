@@ -12,11 +12,7 @@ import javax.persistence.Persistence;
 
 //Prueba
 //Prueba JM
-<<<<<<< Updated upstream
 //PRueva de Serjio
-=======
-//Prueba Sergio
->>>>>>> Stashed changes
 /**
  *
  * @author usuario
